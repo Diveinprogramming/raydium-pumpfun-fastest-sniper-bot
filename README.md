@@ -37,9 +37,11 @@ npm install
  
 3️⃣ Configure Your Wallet
 
+replace .env with your data
+
 PRIVATE_KEY =
-SNIPE_ADDRESS=AArPXm8JatJiuyEffuC1un2Sc835SULa4uQqDcaGpAjV
-COPY_TRADE_ADDRESS =91WNez8D22NwBssQbkzjy4s2ipFrzpmn5hfvWVe2aY5p
+SNIPE_ADDRESS=
+COPY_TRADE_ADDRESS =
 ACTION =buy
 AMOUNT =0.05
 SLIPPAGE =5
