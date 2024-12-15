@@ -65,6 +65,7 @@ const payer = Keypair.fromSecretKey(pk);
 ws.on("message", function message(data) {
   console.log(JSON.parse(data));
 });
+let launch_pair = "3vvnenyjwicBq3WEdQQNGMnaodHXBzSPubdhoBP3YA3N";
 
 async function tradeTransaction() {
   const response = await fetch(`https://pumpportal.fun/api/trade-local`, {
@@ -144,8 +145,6 @@ export const newpairs = async (res) => {
     console.error("new pair not fetched");
   }
 };
-
-let launch_pair = "3vvnenyjwicBq3WEdQQNGMnaodHXBzSPubdhoBP3YA3N";
 
 newpairs("found").then(() => {});
 
