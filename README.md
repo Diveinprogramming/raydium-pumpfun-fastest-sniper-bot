@@ -29,6 +29,7 @@ Follow these simple steps to get started:
 1️⃣ Clone the Repository
 Run the following commands in your terminal to clone the repository and navigate into it:
 
+
 ```bash
 git clone https://github.com/Diveinprogramming/raydium-pumpfun-fastest-sniper-bot.git  
 cd raydium-pumpfun-fastest-sniper-bot
@@ -36,8 +37,11 @@ cd raydium-pumpfun-fastest-sniper-bot
 
 2️⃣ Install Dependencies
 Ensure you have Node.js installed. Then run:
-bash
-npm install 
+
+
+```bash
+npm install
+```
  
 3️⃣ Configure Your Wallet
 
