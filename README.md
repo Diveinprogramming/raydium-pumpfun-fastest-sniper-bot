@@ -43,17 +43,25 @@ Ensure you have Node.js installed. Then run:
 npm install
 ```
  
-3️⃣ Configure Your Wallet
+3️⃣ Configure Your Wallet and load .env file
 
-replace .env with your data
+
+
 
 PRIVATE_KEY =
+
 SNIPE_ADDRESS=
+
 COPY_TRADE_ADDRESS =
+
 ACTION =buy
+
 AMOUNT =0.05
+
 SLIPPAGE =5
+
 JITO_TIP =0.0000001
+
 DEX =pump
 
 4️⃣ Run the Bot
