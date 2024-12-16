@@ -47,7 +47,6 @@ npm install
 
 
 
-
 PRIVATE_KEY =
 
 SNIPE_ADDRESS=
@@ -67,23 +66,31 @@ DEX =pump
 4️⃣ Run the Bot
 Start the bot with:
 
-bash
-Copy code
+```bash
 node bot.js
+```
+
 
 That's it! 🎉 You're ready to snipe tokens and copy trades.
 
 
 🛠️ Requirements
+
 🖥️ Node.js v16+
-🔐 A secure wallet private key of funded wallet 
+
+🔐 A secure wallet private key of funded wallet
+
 🌐 Internet connection
+
 ⚠️ Disclaimer
+
 Use this bot responsibly and at your own risk. Always comply with local regulations and perform due diligence. This tool is provided "as-is" with no guarantees.
 
 🌎 Join the Community
+
 Have questions or want to contribute?
 
 🤝 Join our Discord
 ⭐ Star the Repo
+
 🔗 Get started today and take your crypto trading to the next level with this open-source sniper and copy trading bot for Solana, Raydium, and Pump.fun! 💼✨
